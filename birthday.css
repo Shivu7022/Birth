@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
 
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
 body {
   height: 100vh;
   display: flex;
@@ -8,6 +13,7 @@ body {
   background-size: 1000px;
   background-image: url("birthday.png");
   background-position: center;
+  margin: 0px;
 }
 
 .paper {
